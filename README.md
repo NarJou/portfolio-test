@@ -7,3 +7,5 @@ Learning area : designing and developing a portfolio...
 Brew
 Git & GitHub
 SSH
+Font awesome
+Google Fonts

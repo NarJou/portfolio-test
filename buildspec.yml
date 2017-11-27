@@ -6,6 +6,7 @@ phases:
       - echo Nothing to do yet
 artifacts:
   files:
+    - babel.html
     - index.html
     - favicon.ico
     - styles/main.css
